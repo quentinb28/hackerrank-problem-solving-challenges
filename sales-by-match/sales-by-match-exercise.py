@@ -5,13 +5,17 @@ ar = [1, 2, 1, 2, 3]
 
 
 def sockMerchant(n, ar):
-    
+
+    # Store matched pairs
     matched_pairs = 0
-    
-    organized_socks = Counter(ar)
-    
-    for v in organized_socks.values():
-        
+
+    # Make counter of socks: {sock_type: count}
+    sock_counter = Counter(ar)
+
+    # Iterate through values of sock counter
+    for v in sock_counter.values():
+
+        # Add floor division of sock values to matched pairs - remainders are unmatched
         matched_pairs += v // 2
     
     return matched_pairs
