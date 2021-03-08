@@ -4,5 +4,6 @@
 
  ## Table of contents
  
- 1) [counting-valleys](./counting-valleys)
- 2) [[Google Cloud Function] Dump live Offers from iForex to BQ](./scrapping-iforex-offers)
+ 1) [[Easy] Counting Valleys](./counting-valleys)
+ 2) [[Easy] Jumping On The Clouds](./jumping-on-the-clouds)
+ 3) [[Easy] Sales By Match](./sales-by-match)
