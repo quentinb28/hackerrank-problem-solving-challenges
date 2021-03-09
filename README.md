@@ -10,3 +10,4 @@
  4) [[Easy] Jumping On The Clouds](./jumping-on-the-clouds)
  5) [[Easy] Repeated String](./repeated-string)
  6) [[Easy] Sales By Match](./sales-by-match)
+ 7) [[Medium] New Year Chaos](./new-year-chaos)
