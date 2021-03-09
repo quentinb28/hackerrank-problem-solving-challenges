@@ -23,6 +23,7 @@ def repeatedString(s, n):
 
 
 if __name__ == '__main__':
+    
     r = repeatedString(s, n)
 
     print(r)
