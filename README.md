@@ -4,7 +4,8 @@
 
  ## Table of contents
  
- 1) [[Easy] Counting Valleys](./counting-valleys)
- 2) [[Easy] Jumping On The Clouds](./jumping-on-the-clouds)
- 3) [[Easy] Repeated String](./repeated-string)
- 4) [[Easy] Sales By Match](./sales-by-match)
+ 1) [[Easy] 2D Array DS](./2d-array-ds)
+ 2) [[Easy] Counting Valleys](./counting-valleys)
+ 3) [[Easy] Jumping On The Clouds](./jumping-on-the-clouds)
+ 4) [[Easy] Repeated String](./repeated-string)
+ 5) [[Easy] Sales By Match](./sales-by-match)
