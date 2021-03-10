@@ -10,4 +10,5 @@
  4) [[Easy] Jumping On The Clouds](./jumping-on-the-clouds)
  5) [[Easy] Repeated String](./repeated-string)
  6) [[Easy] Sales By Match](./sales-by-match)
- 7) [[Medium] New Year Chaos](./new-year-chaos)
+ 7) [[Medium] Minimum Swaps 2 - To Optimize](./minimum-swaps-2)
+ 8) [[Medium] New Year Chaos - To Optimize](./new-year-chaos)
