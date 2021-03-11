@@ -12,3 +12,4 @@
  6) [[Easy] Sales By Match](./sales-by-match)
  7) [[Medium] Minimum Swaps 2 - To Optimize](./minimum-swaps-2)
  8) [[Medium] New Year Chaos - To Optimize](./new-year-chaos)
+ 9) [[Hard] Array Manipulation](./array-manipulation)
