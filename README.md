@@ -14,5 +14,5 @@
  8)  [[Easy] Two Strings](./two-strings)
  9)  [[Medium] Minimum Swaps 2 - To Optimize](./minimum-swaps-2)
  10) [[Medium] New Year Chaos](./new-year-chaos)
- 11) [[Medium] Sherlock and Anagrams - NOT FINISHED](./sherlock-and-anagrams)
+ 11) [[Medium] Sherlock and Anagrams](./sherlock-and-anagrams)
  12) [[Hard] Array Manipulation](./array-manipulation)
