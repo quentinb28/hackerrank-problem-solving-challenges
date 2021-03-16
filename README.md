@@ -12,6 +12,7 @@
  6)  [[Easy] Repeated String](./repeated-string)
  7)  [[Easy] Sales By Match](./sales-by-match)
  8)  [[Easy] Two Strings](./two-strings)
+ 9)  [[Medium] Count Triplets](./count-triplets)
  9)  [[Medium] Minimum Swaps 2 - To Optimize](./minimum-swaps-2)
  10) [[Medium] New Year Chaos](./new-year-chaos)
  11) [[Medium] Sherlock and Anagrams](./sherlock-and-anagrams)
