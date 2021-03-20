@@ -1,5 +1,5 @@
 <h1 align="center">
-  HackerRank Problem Solving Challenges
+  Problem Solving Challenges
 </p>
 
  ## Table of contents
