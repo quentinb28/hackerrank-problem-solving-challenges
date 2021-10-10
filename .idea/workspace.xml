@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f11316b5-3c93-4b4d-91fc-e9e76c66f564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minion-game/minion-game-exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codility/max-non-overlapping-segments.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility/max-non-overlapping-segments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minion-game/minion-game-exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/minion-game/minion-game-exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +80,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -155,7 +160,8 @@
       <workItem from="1616318653126" duration="514000" />
       <workItem from="1616342556254" duration="7000" />
       <workItem from="1616342579433" duration="478000" />
-      <workItem from="1633416074102" duration="1381000" />
+      <workItem from="1633416074102" duration="1580000" />
+      <workItem from="1633877422008" duration="4126000" />
     </task>
     <servers />
   </component>
@@ -215,7 +221,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/problem_solving_challenges$minion_game_exercise.coverage" NAME="minion-game-exercise Coverage Results" MODIFIED="1633417558203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minion-game" />
+    <SUITE FILE_PATH="coverage/problem_solving_challenges$minion_game_exercise.coverage" NAME="minion-game-exercise Coverage Results" MODIFIED="1633882781113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minion-game" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jumping-on-the-clouds/jumping-on-the-clouds-exercise.py">
